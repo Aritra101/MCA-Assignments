@@ -1,2 +1,2 @@
 # MCA-Assignments
-This Repository Contains all the MCA Assignments including MCQs.
+This Repository Contains all the MCA Assignments including MCQs, Long Answer Questions.
